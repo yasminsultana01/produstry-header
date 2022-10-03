@@ -1,0 +1,14 @@
+@media (max-width :991px) and (min-width :320px){
+    header .welcome {
+        clip-path:none;
+      }
+      header .container{
+        max-width: 100%;
+      }
+      header .socialLinks{
+        text-align: center;
+      }
+
+
+
+}
